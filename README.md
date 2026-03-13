@@ -166,13 +166,11 @@ Here are some ideas to get you started:
 
 ### Let's build something great together
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/sarim-ali-22b8b4273))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)]([https://yourportfolio.dev](https://sarim-ali-portfolio-main.vercel.app))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarimslayerali786@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"First, solve the problem. Then, write the code."*
+*"Ship, sleep code. 🚢"*
 
 </div>
