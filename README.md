@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔥 Project Alpha</h3>
+      <h3 align="center">🍯 Chat Hive</h3>
       <p align="center">
         <a href="https://github.com/yourusername/project-alpha">
           <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ Project Beta</h3>
+      <h3 align="center">🛒 Swift Buy</h3>
       <p align="center">
         <a href="https://github.com/yourusername/project-beta">
           <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
@@ -126,9 +126,9 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 Project Gamma</h3>
+      <h3 align="center">Stay Villa</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project-gamma">
+        <a href="stay-villa.vercel.app">
           <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -141,12 +141,12 @@ Here are some ideas to get you started:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎯 Project Delta</h3>
+      <h3 align="center">🎯 Buy Mate</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project-delta">
+        <a href="https://github.com/sarim-alis/buy-mate">
           <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="#">
+        <a href="buy-mate-ecru.vercel.app">
           <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
