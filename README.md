@@ -144,7 +144,7 @@ Here are some ideas to get you started:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎯 Buy Mate</h3>
+      <h3 align="center">⭐ Buy Mate</h3>
       <p align="center">
         <a href="https://github.com/sarim-alis/buy-mate">
           <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
