@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ╚═╝      ╚═════╝ ╚══════╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 ```
 
-### `< Full-Stack Developer />` Ship fast. Turning coffee into code. ☕
+### `< Full-Stack Developer />` Turning coffee into code. ☕
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=I+build+end-to-end+web+experiences.;From+pixels+to+databases.;Clean+code+is+a+love+language.;Ship+fast.+Refactor+faster.)](https://git.io/typing-svg)
 
