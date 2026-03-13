@@ -154,7 +154,7 @@ Here are some ideas to get you started:
         </a>
       </p>
       <p>
-        Property rental platform to <strong>browse and book</strong> accommodation.
+        Store to <strong>buy and view</strong> products.
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
