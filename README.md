@@ -171,6 +171,6 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarimslayerali786@gmail.com)
 
 
-*"Ship, sleep, code. 🚢"*
+### Ship, sleep, code. 🚢
 
 </div>
