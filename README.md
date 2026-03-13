@@ -126,7 +126,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Stay Villa</h3>
+      <h3 align="center">🏡 Stay Villa</h3>
       <p align="center">
         <a href="stay-villa.vercel.app">
           <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
