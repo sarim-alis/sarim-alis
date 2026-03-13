@@ -160,8 +160,8 @@ Here are some ideas to get you started:
       </p>
       <p>
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/shadcn-111827?style=flat-square&logo=shadcn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/shadcn-111827?style=flat-square&logo=shadcn&logoColor=white"/>
       </p>
     </td>
   </tr>
