@@ -136,7 +136,7 @@ Here are some ideas to get you started:
         </a>
       </p>
       <p>
-        Property rental platform to <strong>browse and book</strong> accommodation.
+        Property rental platform to <strong>browse and book</strong> the accommodation.
       </p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
