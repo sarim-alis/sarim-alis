@@ -149,7 +149,7 @@ Here are some ideas to get you started:
         <a href="https://github.com/sarim-alis/buy-mate">
           <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="[buy-mate-ecru.vercel.app](https://buy-mate-ecru.vercel.app/)">
+        <a href="https://buy-mate-ecru.vercel.app">
           <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
