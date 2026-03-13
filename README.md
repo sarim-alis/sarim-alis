@@ -50,9 +50,7 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
- 
-    </td>
-    <td valign="top" width="33%">
+
 <br>
  
 ## 🔙 Backend
@@ -65,8 +63,7 @@ Here are some ideas to get you started:
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
  
-    </td>
-    <td valign="top" width="34%">
+
 <br>
  
 ## ☁️ Database & Cloud
@@ -79,7 +76,6 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
  
-    </td>
   </tr>
 </table>
  
