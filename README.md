@@ -131,6 +131,9 @@ Here are some ideas to get you started:
         <a href="stay-villa.vercel.app">
           <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
+        <a href="buy-mate-ecru.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
       </p>
       <p>
         Open-source CLI tool for automating dev workflows. <strong>2k+ GitHub stars</strong>. Featured on Hacker News. Written in TypeScript.
