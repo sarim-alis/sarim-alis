@@ -160,7 +160,7 @@ Here are some ideas to get you started:
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/shadcn-ui-111827?style=flat-square&logo=shadcn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/shadcn-111827?style=flat-square&logo=shadcn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       </p>
     </td>
