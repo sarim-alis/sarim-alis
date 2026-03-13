@@ -88,10 +88,10 @@ Here are some ideas to get you started:
     <td width="50%">
       <h3 align="center">🍯 Chat Hive</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project-alpha">
+        <a href="https://github.com/sarim-alis/sarim-chat-app">
           <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="#">
+        <a href="https://sarim-chat-apps.onrender.com">
           <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
@@ -107,10 +107,10 @@ Here are some ideas to get you started:
     <td width="50%">
       <h3 align="center">🛒 Swift Buy</h3>
       <p align="center">
-        <a href="https://github.com/yourusername/project-beta">
+        <a href="https://github.com/sarim-alis/swift-buy">
           <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="#">
+        <a href="https://swift-buy-gray.vercel.app">
           <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
@@ -128,10 +128,10 @@ Here are some ideas to get you started:
     <td width="50%">
       <h3 align="center">🏡 Stay Villa</h3>
       <p align="center">
-        <a href="stay-villa.vercel.app">
+        <a href="https://github.com/sarim-alis/stay-villa">
           <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="buy-mate-ecru.vercel.app">
+        <a href="https://stay-villa.vercel.app">
           <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
