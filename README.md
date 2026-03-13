@@ -92,7 +92,7 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/View_Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://sarim-chat-apps.onrender.com">
-          <img src="https://img.shields.io/badge/Live_Demo-FCD34D?style=for-the-badge&logo=star&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live_Demo-FCD34D?style=for-the-badge&logo=fontawesome&logoColor=white&label=★%20Live%20Demo%20★"/>
         </a>
       </p>
       <p>
