@@ -108,10 +108,10 @@ Here are some ideas to get you started:
       <h3 align="center">🛒 Swift Buy</h3>
       <p align="center">
         <a href="https://github.com/sarim-alis/swift-buy">
-          <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View_Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://swift-buy-gray.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live_Demo-FCD34D?style=for-the-badge&logo=star&logoColor=white"/>
         </a>
       </p>
       <p>
@@ -130,10 +130,10 @@ Here are some ideas to get you started:
       <h3 align="center">🏡 Stay Villa</h3>
       <p align="center">
         <a href="https://github.com/sarim-alis/stay-villa">
-          <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View_Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://stay-villa.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live_Demo-FCD34D?style=for-the-badge&logo=star&logoColor=white"/>
         </a>
       </p>
       <p>
@@ -149,10 +149,10 @@ Here are some ideas to get you started:
       <h3 align="center">⭐ Buy Mate</h3>
       <p align="center">
         <a href="https://github.com/sarim-alis/buy-mate">
-          <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View_Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://buy-mate-ecru.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live_Demo-FCD34D?style=for-the-badge&logo=star&logoColor=white"/>
         </a>
       </p>
       <p>
