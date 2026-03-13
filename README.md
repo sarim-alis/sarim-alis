@@ -89,7 +89,7 @@ Here are some ideas to get you started:
       <h3 align="center">🍯 Chat Hive</h3>
       <p align="center">
         <a href="https://github.com/sarim-alis/sarim-chat-app">
-          <img src="https://img.shields.io/badge/View_Repo-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View_Repo-2D2D2D?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://sarim-chat-apps.onrender.com">
           <img src="https://img.shields.io/badge/Live_Demo-FCD34D?style=for-the-badge&logo=star&logoColor=white"/>
