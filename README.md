@@ -99,9 +99,8 @@ Here are some ideas to get you started:
       Chatting app developed for <strong>real-time</strong> messaging.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
@@ -118,6 +117,8 @@ Here are some ideas to get you started:
         Ecommerce store used for <strong>online shopping</strong> with clerk auth.
       </p>
       <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
