@@ -140,8 +140,7 @@ Here are some ideas to get you started:
         Property rental platform to <strong>browse and book</strong> the accommodation.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
       </p>
