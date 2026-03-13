@@ -154,7 +154,7 @@ Here are some ideas to get you started:
         </a>
       </p>
       <p>
-        Store to <strong>buy and view</strong> products.
+        Product store to <strong>buy and view</strong> the products.
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
