@@ -39,6 +39,7 @@ Here are some ideas to get you started:
     <td valign="top" width="33%">
 
 <br>
+
 ## 🎨 Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
