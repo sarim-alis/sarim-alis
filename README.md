@@ -96,7 +96,7 @@ Here are some ideas to get you started:
         </a>
       </p>
       <p>
-        A full-stack SaaS platform with real-time collaboration, auth, and payments. Built with <strong>Next.js, Supabase, and Stripe</strong>. Handles 10k+ users.
+      Chatting app developed for <strong>real-time</strong> messaging.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"/>
@@ -115,7 +115,7 @@ Here are some ideas to get you started:
         </a>
       </p>
       <p>
-        An AI-powered API that processes and transforms data at scale. Built with <strong>Python, FastAPI, and Redis</strong>. Sub-100ms response times.
+        Ecommerce store used for <strong>online shopping</strong> with clerk auth.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -136,7 +136,7 @@ Here are some ideas to get you started:
         </a>
       </p>
       <p>
-        Open-source CLI tool for automating dev workflows. <strong>2k+ GitHub stars</strong>. Featured on Hacker News. Written in TypeScript.
+        Property rental platform to <strong>browse and book</strong> accommodation.
       </p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
